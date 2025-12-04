@@ -12,7 +12,7 @@ const CounterApp: React.FC = () => {
     }
 
     return (
-        <div className="min-h-screen bg-gradient-to-r from-yellow-400 to-pink-500 flex flex-col justify-center items-center text-white">
+        <div className="min-h-screen bg-linear-to-r from-yellow-400 to-pink-500 flex flex-col justify-center items-center text-white">
             {/* title */}
             <h1 className="text-6xl font-extrabold mb-6">🤖 Fun Counter App 🎉</h1>
 
