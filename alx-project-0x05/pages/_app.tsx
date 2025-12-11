@@ -1,4 +1,4 @@
-import { CountProvider } from '@/context/CounterContext';
+import { CountProvider } from '@/context/CountContext';
 import '../app/globals.css'
 import type { AppProps } from 'next/app'
 import Layout from '@/app/layout';
