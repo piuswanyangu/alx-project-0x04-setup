@@ -1,7 +1,7 @@
 import { CountProvider } from '@/context/CountContext';
 import '../app/globals.css'
 import type { AppProps } from 'next/app'
-import Layout from '@/app/layout';
+import Layout from '@/components/layouts/Layout';
 
 const MyApp = ({ Component, pageProps }: AppProps) => (
   
